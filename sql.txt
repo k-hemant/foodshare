@@ -1,0 +1,20 @@
+CREATE DATABASE foodshare;
+
+CREATE TABLE foodshare
+(
+id int NOT NULL AUTO_INCREMENT,
+name varchar(20),
+place varchar(80),
+food varchar(70),
+price varchar(70),
+whatsapp varchar(70),
+time varchar(70),
+period varchar(70),
+city varchar(70),
+date varchar(70),
+timestamp varchar(90),
+PRIMARY KEY (id),
+UNIQUE id (id)
+);
+
+

@@ -1,0 +1,155 @@
+.header{
+	
+	background-color:#fff200;
+    top:0;
+	left:0;
+	right:0;
+    font-family: 'Josefin Sans', sans-serif; 
+  	
+	position:fixed;
+	
+}
+
+.a{
+	text-decoration:none;
+}
+
+.google{
+    font-family: 'Josefin Sans', sans-serif; 	
+	background-color:black;
+	color:white;
+    padding: 5px 15px;
+	border:none;
+	border-radius:5px;
+    width:200px;
+	text-decoration:none;
+}
+
+.whatsapp{
+    font-family: 'Josefin Sans', sans-serif; 	
+	background-color:black;
+	color:white;
+	padding: 5px 15px;
+	border-radius:5px;
+	border:none;
+	width:200px;
+	text-decoration:none;
+}
+
+.no{
+	
+	 font-family: 'Josefin Sans', sans-serif; 
+	
+}
+
+
+
+.show{
+	
+	width:60%;
+
+}
+
+.card{
+	
+	border-color:black;
+	border-radius:10px;
+	
+	
+}
+
+.cardleft{
+	
+	float:left;
+	    font-family: 'Josefin Sans', sans-serif; 
+		text-align:justify;
+	
+}
+
+
+.cardright{
+	
+	float:right;
+	    font-family: 'Josefin Sans', sans-serif; 
+		text-align:justify;
+}
+
+.period{
+	width:140px;
+		padding: 10px 25px;
+    font-family: 'Josefin Sans', sans-serif; 
+	    border-radius:5px;
+		font-size:19;
+}
+
+.time{
+	
+	width:150px;
+	padding: 10px 25px;
+    font-family: 'Josefin Sans', sans-serif; 
+    border-radius:5px;
+
+	
+}
+
+
+.share{
+	
+	padding: 10px 25px;
+    font-size: 17;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Josefin Sans', sans-serif; 
+    border-radius:5px;
+	background-color:#111;
+	color:white;
+	border:none;
+	
+}
+
+.input{
+	
+	width:40%;
+	padding: 10px 25px;
+	cursor: pointer;
+    font-family: 'Josefin Sans', sans-serif; 
+    border-radius:5px;
+	font-size: 19;
+	
+}
+
+.select{
+	
+	font-size:19;
+    padding: 10px 25px;
+	background-color:;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Josefin Sans', sans-serif; 
+    border-radius:5px;
+	border:thick;
+}
+
+.button{
+	
+	padding: 10px 25px;
+    font-size: 19;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Josefin Sans', sans-serif; 
+    border-radius:20px;
+	background-color:#111;
+	color:white;
+	border:none;
+}
+
+.left{
+	float:left;
+	font-family: 'Josefin Sans', sans-serif; 
+	text-align:justify;
+}
+
+.right{
+	float:right;
+	font-family: 'Josefin Sans', sans-serif; 
+}
